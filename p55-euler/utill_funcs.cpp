@@ -18,3 +18,22 @@ unsigned long long reverseNumber(unsigned long long number)
 
 	return newNum;
 }
+
+bool isPalindrom(unsigned long long number)
+{
+	if (number == reverseNumber(number))
+	{
+		return true;
+	}
+
+	return false;
+}
+
+unsigned long long addReversedNumber(unsigned long long number)
+{
+	return number + reverseNumber(number);
+}
+
+
+
+

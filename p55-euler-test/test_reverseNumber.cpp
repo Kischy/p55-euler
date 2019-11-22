@@ -3,7 +3,6 @@
 
 
 #include "../p55-euler/utill_funcs.h"
-#include "../p55-euler/utill_funcs.cpp"
 
 
 TEST(TestReverseNumber, OnInputOneDigitNumberReturnsTheNumber)

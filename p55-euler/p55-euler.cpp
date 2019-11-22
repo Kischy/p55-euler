@@ -4,10 +4,14 @@
 #include "pch.h"
 #include <iostream>
 
+#include "LychrelNumbers.h"
+
 int main()
 {
 
 	unsigned long long p55_answ = 0;
+
+	LychrelNumbers lychrelnums;
 
 
 	std::cout << "The answer to the 55th problem of ProjectEuler.Net is:\n" << p55_answ << std::endl;
