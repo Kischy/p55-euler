@@ -25,6 +25,9 @@ public:
 			nums.at(i).num = i;
 		}
 	}
+	
+
+
 
 };
 

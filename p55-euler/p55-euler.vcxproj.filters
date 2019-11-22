@@ -32,9 +32,6 @@
     <ClCompile Include="p55-euler.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="LychrelNumbers.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="utill_funcs.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>

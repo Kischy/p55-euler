@@ -38,7 +38,6 @@
     <ClInclude Include="pch.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\p55-euler\LychrelNumbers.cpp" />
     <ClCompile Include="..\p55-euler\utill_funcs.cpp" />
     <ClCompile Include="test_isPalindrom.cpp" />
     <ClCompile Include="test_reverseNumber.cpp" />
