@@ -78,7 +78,6 @@ class LychrelNumbers
 				num_ptrs.push_back(&nums.at(newNum));
 			}
 		}
-
 			 
 		return newNum;
 	}
