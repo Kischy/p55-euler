@@ -13,6 +13,9 @@ int main()
 
 	LychrelNumbers lychrelnums;
 
+	lychrelnums.setAllLychrelNumbers();
+	p55_answ = lychrelnums.getNumberOfLychrelNumbers();
+
 
 	std::cout << "The answer to the 55th problem of ProjectEuler.Net is:\n" << p55_answ << std::endl;
 
